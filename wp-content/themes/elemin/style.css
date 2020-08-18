@@ -70,7 +70,7 @@ body {
 	font: .875em/150% Georgia, "Times New Roman", Times, serif;
 	word-wrap: break-word;
 	color: #666;
-	background: #f4f3f3 url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/noise-bg.png);
+	background: #f4f3f3 url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/noise-bg.png);
 }
 a {
 	text-decoration: underline;
@@ -363,7 +363,7 @@ SEARCH FORM
 	-webkit-transition: width .7s;
 	-moz-transition: width .7s;
 	transition: width .7s;
-	background: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/search.png) no-repeat 7px center;
+	background: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/search.png) no-repeat 7px center;
 	padding-left: 28px;
 }
 #header #searchform #s:focus {
@@ -436,7 +436,7 @@ SOCIAL WIDGET
 	display: inline;
 }
 .social-widget div.rss a {
-	background: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/rss.png) no-repeat left center;
+	background: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/rss.png) no-repeat left center;
 	padding: 3px 0 2px 30px;
 	display: inline-block;
 	zoom:1;
@@ -903,7 +903,7 @@ POST FORMATS
 
 /* format link */
 .format-link .post-title a {
-	background: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/link-arrow.png) no-repeat right center;
+	background: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/link-arrow.png) no-repeat right center;
 	padding-right: 26px;
 }
 
@@ -941,7 +941,7 @@ max-width: 100% !important;
 POST ICON
 *************************************************************************************/
 .post-icon {
-	background: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-post.png) no-repeat right 2px;
+	background: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-post.png) no-repeat right 2px;
 	width: 27px;
 	height: 30px;
 	display: block;
@@ -960,31 +960,31 @@ POST ICON
 	position: absolute;
 }
 .format-audio .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-audio.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-audio.png);
 }
 .format-gallery .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-gallery.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-gallery.png);
 }
 .format-link .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-link.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-link.png);
 }
 .format-quote .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-quote.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-quote.png);
 }
 .format-status .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-status.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-status.png);
 }
 .format-aside .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-aside.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-aside.png);
 }
 .format-video .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-video.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-video.png);
 }
 .format-image .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-image.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-image.png);
 }
 .format-chat .post-icon {
-	background-image: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-chat.png);
+	background-image: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-chat.png);
 }
 
 /************************************************************************************
@@ -1161,7 +1161,7 @@ COMMENTS
 	text-decoration: none;
 }
 .commentlist .bypostauthor > .comment-author cite {
-	background: url(https://murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-author-comment.png) no-repeat 0 2px;
+	background: url(https://www.murzith0007.github.io/wordpress/wp-content/themes/elemin/images/icon-author-comment.png) no-repeat 0 2px;
 	padding-left: 18px;
 }
 .commentlist .comment-time {
